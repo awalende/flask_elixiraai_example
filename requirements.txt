@@ -13,7 +13,7 @@ idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
 jwt==0.6.1
-Mako==1.0.12
+Mako==1.2.2
 MarkupSafe==1.1.1
 oic==0.12.0
 pycparser==2.19
